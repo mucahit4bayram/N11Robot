@@ -1,0 +1,23 @@
+1692296184132	geckodriver	INFO	Listening on 127.0.0.1:14813
+1692296187170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mbayy\\AppData\\Local\\Temp\\rust_mozprofileS8reX1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692296187446	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692296187450	Marionette	INFO	Listening on port 14821
+Read port: 14821
+WebDriver BiDi listening on ws://127.0.0.1:14814
+1692296187562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:14814/devtools/browser/1b8cfef0-d055-4f79-bd9c-d1400bdbdd1c
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NCDTBW, line 87: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NCDTBW, line 87: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.n11.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.n11.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NCDTBW, line 87: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NCDTBW, line 87: uncaught exception: [object Object]
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H7NiGUBWITXDbUXvzcl9NdwFkmo5ojjKC-Hhm2BY16o.js line 2 > eval line 2753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.n11.com/hesabim/siparislerim, line 87: SyntaxError: expected expression, got ';'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H7NiGUBWITXDbUXvzcl9NdwFkmo5ojjKC-Hhm2BY16o.js line 2 > eval line 6244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692296313115	Marionette	INFO	Stopped listening on port 14821
+Dynamically enable window occlusion 1

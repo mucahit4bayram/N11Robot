@@ -1,0 +1,19 @@
+1692297145534	geckodriver	INFO	Listening on 127.0.0.1:2356
+1692297148603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mbayy\\AppData\\Local\\Temp\\rust_mozprofilewIUQN6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692297148823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692297148826	Marionette	INFO	Listening on port 2364
+WebDriver BiDi listening on ws://127.0.0.1:2357
+Read port: 2364
+1692297149085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:2357/devtools/browser/54a1a78f-c71d-4539-b816-0a0dec21c342
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.n11.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.n11.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H7NiGUBWITXDbUXvzcl9NdwFkmo5ojjKC-Hhm2BY16o.js line 2 > eval line 4756 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692297220195	Marionette	INFO	Stopped listening on port 2364
+Dynamically enable window occlusion 1

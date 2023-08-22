@@ -1,0 +1,19 @@
+1692295063506	geckodriver	INFO	Listening on 127.0.0.1:14168
+1692295066558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mbayy\\AppData\\Local\\Temp\\rust_mozprofile61FxSp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692295066858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692295066863	Marionette	INFO	Listening on port 14176
+Read port: 14176
+WebDriver BiDi listening on ws://127.0.0.1:14169
+1692295066989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:14169/devtools/browser/14d6b67b-ef9a-4d51-be8c-221576bbea53
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H7NiGUBWITXDbUXvzcl9NdwFkmo5ojjKC-Hhm2BY16o.js line 2 > eval line 2668 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.n11.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.n11.com."
+[Parent 2352, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+JavaScript warning: https://pagead2.googlesyndication.com/bg/H7NiGUBWITXDbUXvzcl9NdwFkmo5ojjKC-Hhm2BY16o.js line 2 > eval line 6767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1692295175609	Marionette	INFO	Stopped listening on port 14176
+Dynamically enable window occlusion 1
